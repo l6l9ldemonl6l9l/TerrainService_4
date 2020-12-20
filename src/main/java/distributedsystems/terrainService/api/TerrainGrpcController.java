@@ -1,6 +1,6 @@
 package distributedsystems.terrainService.api;
 
-import distributedsystems.terrainService.*;
+import distributedsystems.Terrain.*;
 import distributedsystems.terrainService.model.Terrain;
 import distributedsystems.terrainService.services.TerrainService;
 import io.grpc.stub.StreamObserver;

@@ -8,5 +8,5 @@ import java.util.UUID;
 @Repository
 public interface TerrainRepository extends JpaRepository <Terrain, UUID > {
     Terrain findByName(String name);
-    Terrain findByTerrainId(UUID id);
+    Terrain findTerrainById(UUID id);
 }

@@ -1,7 +1,7 @@
 package distributedsystems.terrainService.model;
 
-import distributedsystems.terrainService.TerrainRequest;
-import distributedsystems.terrainService.TerrainResponse;
+import distributedsystems.Terrain.TerrainRequest;
+import distributedsystems.Terrain.TerrainResponse;
 import lombok.Data;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 

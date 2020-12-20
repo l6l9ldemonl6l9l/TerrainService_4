@@ -1,5 +1,5 @@
 syntax = "proto3";
-package distributedsystems.terrainService;
+package distributedsystems.Terrain;
 option java_multiple_files = true;
 
 message TerrainResponse {
